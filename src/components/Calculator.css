@@ -1,0 +1,20 @@
+button{
+    font-size: 15px;
+    margin: 8px;
+    padding: 10px;
+    cursor: pointer;
+    
+}
+h1{
+    color: white;
+}
+input{
+    outline: white;
+    padding: 8px;
+    border-color: white;
+    background-color: black;
+}
+
+input, select, textarea{
+    color: white;
+}
